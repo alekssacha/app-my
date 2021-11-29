@@ -8,6 +8,7 @@ const text = 'Hello world1';
 const elem = (
   <div>
      <h2>Text: {text}</h2>
+     <h2>Hello!</h2>
      <input type="text" />
      <button>Click</button>
   </div>
